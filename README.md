@@ -17,10 +17,10 @@
 
        * For Exampel:- In my case its: from Personal_Projects.Matrix_calculator.matrix_class import Matrix
         
-       * But in your case, it could be from ________.________._________ import Matrix
+       * But in your case, it could be from ________.________.matrix_class import Matrix
                                                 
                                                 or
                                                
-                                       from __________ import Matrix
+                                       from matrix_class import Matrix
                                       
        * Or you can put all code (including the classes) in one single file.
