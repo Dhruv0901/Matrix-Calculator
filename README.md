@@ -12,3 +12,15 @@
 3. The code both the classes are there in a different python file and here that class is imported using static import.
 
 4. This is a raw python program based calculator. The UI of this calculator will be there on play store after few months/year.
+
+5. If you're using this code them make sure that, you've changed the path/folder in the import statement according to your file location.
+
+       * For Exampel:- In my case its: from Personal_Projects.Matrix_calculator.matrix_class import Matrix
+        
+       * But in your case, it could be from ________.________._________ import Matrix
+                                                
+                                                or
+                                               
+                                       from __________ import Matrix
+                                      
+       * Or you can put all code (including the classes) in one single file.
