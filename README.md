@@ -13,7 +13,9 @@
 
 4. This is a raw python program based calculator. The UI of this calculator will be there on play store after few months/year.
 
-5. If you're using this code them make sure that, you've changed the path/folder in the import statement according to your file location.
+5. Clone/download the class file and add that file to your project folder.
+
+6. If you're using this code them make sure that, you've changed the path/folder in the import statement according to your file location.
 
        * For Exampel:- In my case its: from Personal_Projects.Matrix_calculator.matrix_class import Matrix
         
