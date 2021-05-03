@@ -26,3 +26,9 @@
                                        from matrix_class import Matrix
                                       
        * Or you can put all code (including the classes) in one single file.
+
+7. You'll find two files, one will be the matrix class file and the second one will bw the user guide/interface program file. If you wanna make your own 
+   program with these classes then just download the class file and add it to your prject folder. But if you wanna use the pre-made user interface Matrix 
+   calculator then download both the files and add them in a same folder.
+   
+8. I've made the explaination video on the class file as well as how to use the UI calculator (link:- ).
